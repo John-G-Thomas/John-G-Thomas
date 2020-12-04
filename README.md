@@ -11,4 +11,4 @@ A few things about me:
 📫 How to reach me: LinkedIn https://www.linkedin.com/in/john-thomas-20315b1b4/
 😄 Pronouns: he/him/they
 
-Computer Languages/Skills: Python | SQL| NoSQL | Postgres | Pandas | Numpy | | Scikit-Learn | Seaborn | Matplotlib | Plotly Keras | Tensorflow | Data Analysis | Predictive Modeling | Data Visualization | Statistical Analysis | Predictive Analytics | AWS Web Services | Plotly | Django | Web Scraping | Data Mining |
+Computer Languages/Skills: Python | SQL| NoSQL | Postgres | Pandas | Numpy | | Scikit-Learn | Seaborn | Matplotlib | Plotly Keras | Tensorflow | Data Analysis | Predictive Modeling | Data Visualization | Statistical Analysis | Predictive Analytics | AWS Web Services | Plotly | Django | Web Scraping | Data Mining | Selenium | Scrapy |
