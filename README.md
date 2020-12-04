@@ -6,7 +6,6 @@ A few things about me:
 🔭 I’m currently working on Human Rights - Asylum Analysis 
 🌱 I’m currently learning Data Science and Software Engineering at Lambda !
 👯 I’m looking to collaborate on projects to strengthen pair programming skills!
-🤔 I’m looking for help with all things related!
 💬 Ask me about anything, and if I don't have an answer we will find it together!
 📫 How to reach me: LinkedIn www.linkedin.com/in/john-g-thomas0215
 😄 Pronouns: he/him/they
