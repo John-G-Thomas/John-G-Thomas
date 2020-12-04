@@ -8,7 +8,7 @@ A few things about me:
 👯 I’m looking to collaborate on projects to strengthen pair programming skills!
 🤔 I’m looking for help with all things related!
 💬 Ask me about anything, and if I don't have an answer we will find it together!
-📫 How to reach me: LinkedIn https://www.linkedin.com/in/john-thomas-20315b1b4/
+📫 How to reach me: LinkedIn www.linkedin.com/in/john-g-thomas0215
 😄 Pronouns: he/him/they
 
 Computer Languages/Skills: Python | SQL| NoSQL | Postgres | Pandas | Numpy | | Scikit-Learn | Seaborn | Matplotlib | Plotly Keras | Tensorflow | Data Analysis | Predictive Modeling | Data Visualization | Statistical Analysis | Predictive Analytics | AWS Web Services | Plotly | Django | Web Scraping | Data Mining | Selenium | Scrapy |
