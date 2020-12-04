@@ -10,4 +10,6 @@ A few things about me:
 📫 How to reach me: LinkedIn www.linkedin.com/in/john-g-thomas0215
 😄 Pronouns: he/him/they
 
-Computer Languages/Skills: Python | SQL| NoSQL | Postgres | Pandas | Numpy | | Scikit-Learn | Seaborn | Matplotlib | Plotly Keras | Tensorflow | Data Analysis | Predictive Modeling | Data Visualization | Statistical Analysis | Predictive Analytics | AWS Web Services | Plotly | Django | Web Scraping | Data Mining | Selenium | Scrapy |
+Data Scientists familiar with the gathering, mining, and organizing data for the use of technical and non-technical personnel. Advanced understanding of statistical, algebraic, and other analytical techniques. Highly organized, motivated, and diligent with significant background in Python, Data Wrangling, Databases, AWS, PostgreSQL, Docker, Data Visualizations, Machine Learning, and Computer Science. 
+
+| Some of technolgies that fascinated me | Plotly | Django | Selenium | Scrapy |
