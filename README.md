@@ -1,5 +1,4 @@
-Hi there 👋
-Hello and welcome to my GitHub! I'm John, and I love learning! I love all aspects of data science, from collecting and wrangling data, to building complex machine learning models for real-world business cases!
+I'm John, and I love learning! I love all aspects of data science, from collecting and wrangling data, to building complex machine learning models for real-world business cases!
 
 A few things about me:
 
